@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+#canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.player {
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 9999;
+    bottom: 10px;
+}
+
+.enemy {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    z-index: 9999;
+    bottom: 10px;
+    background-size: cover;
+    transform: rotateY(180deg);
+
+}
+
+.start-image {
+    width: 1000px;
+    height: 600px;
+    position: relative;
+    margin: auto;
+    transform: translateY(-50%);
+    background-image: url("../img/game-start.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    z-index: 9999;
+    user-select: none;
+}
+
+.btn-start {
+    width: 450px;
+    height: 40px;
+    background-color: rgb(63, 19, 63);
+    position: absolute;
+    border-radius: 10px;
+    bottom: 17%;
+    right: 37%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 9999;
+    user-select: none;
+}
+
+.restart {
+    width: 1000px;
+    height: 600px;
+    position: relative;
+    margin: auto;
+    transform: translateY(-50%);
+    background-image: url("../img/game-over.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    z-index: 9999;
+    user-select: none;
+}
+
+.score-display {
+    width: 200px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+    z-index: 9999;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 2.5rem;
+}
+
