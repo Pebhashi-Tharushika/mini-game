@@ -1,4 +1,4 @@
-# Mini Game
+# Mini Game - Ninja vs. Dino
 Ninja vs. Dino is a simple mini game developed using HTML, CSS, and JavaScript. In this game, you control a ninja character and your goal is to defeat the attacking dinos while avoiding their attacks. You earn points for each defeated dino and must survive as long as possible to achieve a high score. If any dino manages to hit you, the game is over.
 
 ### How to Play
@@ -12,14 +12,20 @@ Ninja vs. Dino is a simple mini game developed using HTML, CSS, and JavaScript. 
 - Real-time score tracking and display.
 - Engaging gameplay with increasing difficulty as you progress.
 
-
-### Aplication Preview <br><br>
-
+### How to Run the Game
+- Clone this repository to your local machine using git clone https://github.com/Pebhashi-Tharushika/Mini-Game.git
+- Navigate to the project folder.
+- Open index.html in your web browser.
+  
+### Screenshots 
 ![](asset/game-start.png) <br><br>
 ![](asset/jump.png) <br><br>
 ![](asset/attack1.png) <br><br>
 ![](asset/attack2.png) <br><br>
-![](asset/game-over.png) <br><br>
+![](asset/game-over.png) <br>
+
+### Demo
+You can play the game online at https://pebhashi-tharushika.github.io/Mini-Game/
 
 ### License
 This is licensed under the [MIT license](LICENSE).
