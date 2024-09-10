@@ -1,5 +1,5 @@
-# Mini Game - Ninja vs. Dino
-Ninja vs. Dino is a simple mini game developed using HTML, CSS, and JavaScript. In this game, you control a ninja character and your goal is to defeat the attacking dinos while avoiding their attacks. You earn points for each defeated dino and must survive as long as possible to achieve a high score. If any dino manages to hit you, the game is over.
+# Mini Game - Jurassic-Ninja Brawl
+Jurassic-Ninja Brawl is a simple mini game developed using HTML, CSS, and JavaScript. In this game, you control a ninja character and your goal is to defeat the attacking dinos while avoiding their attacks. You earn points for each defeated dino and must survive as long as possible to achieve a high score. If any dino manages to hit you, the game is over.
 
 ### How to Play
 - Use the left arrow and right arrow keys to move the ninja character left and right.
