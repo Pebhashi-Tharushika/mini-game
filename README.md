@@ -25,7 +25,7 @@ Jurassic-Ninja Brawl is a simple mini game developed using HTML, CSS, and JavaSc
 ![](asset/game-over.png) <br>
 
 ### Demo
-You can play the game online at https://pebhashi-tharushika.github.io/mini-game/
+You can play the game online at https://pebhashi-tharushika.github.io/jurassic-ninja-brawl-mini-game/
 
 ### License
 This is licensed under the [MIT license](LICENSE).
